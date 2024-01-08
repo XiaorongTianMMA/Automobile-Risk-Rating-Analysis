@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Welcome to our GitHub repository focused on predicting the automobile risk rating analysis. This project is an individual effort by Xiaorong Tian.
+Welcome to my GitHub repository focused on predicting the automobile risk rating analysis. This project is an individual effort by Xiaorong Tian.
 
 **Project Overview**
 
@@ -10,7 +10,7 @@ This project dives into the world of automobile risk rating. The aim is to under
 
 **Objectives and Goals**
 
-The primary objective of our project is to analyze how various factors - including producer, horsepower, fuel type, price, etc. - affect the risk rating of a vehicle. 
+The primary objective of my project is to analyze how various factors - including producer, horsepower, fuel type, price, etc. - affect the risk rating of a vehicle. 
 
 **Data and Methodology**
 
@@ -21,4 +21,4 @@ In this process, I conducted lots of feature engineering to fully utilize the da
 
 The solutions are designed to assist various stakeholders in the automobile industry. Producers can identify crucial factors for risk control to optimize production procedures. Insurance providers can focus on risk factors to figure out optimal pricing strategies for different automobiles. Consumers can gain deeper insights into different vehicles and make purchasing decisions based on various factors including risk and price.
 
-I invite you to explore our repository and delve into the fascinating world of automobile risk rating with me.
+I invite you to explore my repository and delve into the fascinating world of automobile risk rating with me.
